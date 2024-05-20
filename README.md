@@ -4,10 +4,13 @@ ___________________________________________________________
 
 ## Things I love 
 
-'''
-  - ⛺The Outdoors
-  - 👨‍👩‍👧‍👦Family
-  - ⚽Soccer
-  - 🙍Friends
-  - 🎮Video Games 
-'''
+>⛺The Outdoors
+>
+> 👨‍👩‍👧‍👦Family
+>
+> ⚽Soccer
+>
+>🙍Friends
+>
+> 🎮Video Games 
+
