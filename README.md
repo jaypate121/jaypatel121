@@ -1,12 +1,7 @@
 # Hello! My name is Jay Patel and this is my APCSP Resume.
 
 > ![](https://komarev.com/ghpvc/?username=jaypate121&color=ff69b4)
-> 
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-> 
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-> 
-> ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaypate121&theme=tokyonight&hide_border=true)
+
 
 ### These are some of the Things I love!
 
@@ -42,3 +37,14 @@ ___________________________________________________
 * TikTok [@jaypatel](https://www.tiktok.com/@jayy..patelll?_t=8mW1PTuV1lT&_r=1)
 * Email jayppatel56@gbstu.org
 
+____________________________________________________
+
+## Summary 
+
+> I'm unemployed at 15, I love outdoor activities, spending time with family and friends, playing soccer, and video games. If you want to get in contact then shoot me a message 😀
+> 
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+> 
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+> 
+> ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaypate121&theme=tokyonight&hide_border=true)
