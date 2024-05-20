@@ -1,6 +1,9 @@
 # Hello! My name is Jay Patel and this is my APCSP Resume.
 
 ![](https://komarev.com/ghpvc/?username=jaypate121&color=ff69b4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypate121&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaypate121&theme=tokyonight&hide_border=true)
 
 ### These are some of the Things I love!
 
