@@ -1,6 +1,6 @@
 # Hello! My name is Jay Patel and this is my APCSP Resume.
 
-![](https://komarev.com/ghpvc/?username=jaypate121&color=green)
+![](https://komarev.com/ghpvc/?username=jaypate121&color=ff69b4)
 
 ### These are some of the Things I love!
 
