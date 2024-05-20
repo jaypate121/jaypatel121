@@ -1,8 +1,6 @@
-## Hello! My name is Jay patel and this is my APCSP Resume.
+## Hello! My name is Jay Patel and this is my APCSP Resume.
 
-___________________________________________________________
-
-## Things I love 
+# These are some of the Things I love!
 
 >⛺The Outdoors
 >
@@ -14,3 +12,16 @@ ___________________________________________________________
 >
 > 🎮Video Games 
 
+_____________________________________________________
+
+# 🔨 Technology toolkit
+
+> Over the past year in APCSP I've learned multitudes of different things these are what I'm proficient in
+>
+>> Block Codes.
+>> 
+>> Psudocode.
+>> 
+>> Markdown.
+>> 
+>> Little bit of Javascript.
