@@ -1,6 +1,6 @@
-## Hello! My name is Jay Patel and this is my APCSP Resume.
+# Hello! My name is Jay Patel and this is my APCSP Resume.
 
-# These are some of the Things I love!
+### These are some of the Things I love!
 
 >⛺The Outdoors
 >
@@ -14,7 +14,7 @@
 
 _____________________________________________________
 
-# 🔨 Technology toolkit
+### 🔨 Technology toolkit
 
 > Over the past year in APCSP I've learned multitudes of different things these are what I'm proficient in
 >
